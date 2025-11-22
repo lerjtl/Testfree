@@ -42,6 +42,8 @@ trojan://BxceQaOe@58.152.53.22:443?sni=t.me%252Fripaojiedian#%E9%A6%99%E6%B8%AF+
 <p>上方订阅地址二维码</p>
 <img src='https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https%3A%2F%2Fslightripple.com%2F' width=250 height=250>
 
+<div class="ad-content"><a href="https://aff01.c-box.vip/#/register?code=eTADcyOT" title="Orgorg速率最高可达1000Mbps，流畅观看Youtube 4K、TikTok，支持 Windows、Android、iOS、Mac，支持 微信、支付宝 付款！" rel="nofollow" target="_blank"><img src="https://slightripple.com/wp-content/uploads/2025/08/ORG-ads-scaled.png" alt="Orgorg速率最高可达1000Mbps，流畅观看Youtube 4K、TikTok，支持 Windows、Android、iOS、Mac，支持 微信、支付宝 付款！" style="max-width: 100%;"></a></div>
+
 ## V2ray/SSR安卓苹果手机/电脑客户端下载
 
 ### V2Ray客户端下载
