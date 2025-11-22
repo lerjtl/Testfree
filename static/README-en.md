@@ -2,21 +2,8 @@
 
 **Languages:**
 
-[![English](https://img.shields.io/badge/Language-English-red?style=for-the-badge)](README-en.md)
-[![Arabic](https://img.shields.io/badge/Language-Arabic-red?style=for-the-badge)](static/README-ar.md)
-[![German](https://img.shields.io/badge/Language-German-red?style=for-the-badge)](static/README-de.md)
-[![Vietnamese](https://img.shields.io/badge/Language-Vietnamese-red?style=for-the-badge)](static/README-vi.md)
-[![Indonesian](https://img.shields.io/badge/Language-Indonesian-red?style=for-the-badge)](static/README-id.md)
-[![Urdu](https://img.shields.io/badge/Language-Urdu-red?style=for-the-badge)](static/README-ur-PK.md)
-[![Portuguese](https://img.shields.io/badge/Language-Portuguese-red?style=for-the-badge)](static/README-pt-BR.md)
-[![Spanish](https://img.shields.io/badge/Language-Spanish-red?style=for-the-badge)](static/README-es.md)
-[![Russian](https://img.shields.io/badge/Language-Russian-red?style=for-the-badge)](static/README-ru.md)
-[![Polish](https://img.shields.io/badge/Language-Polish-red?style=for-the-badge)](static/README-pl.md)
-[![Korean](https://img.shields.io/badge/Language-Korean-red?style=for-the-badge)](static/README-ko-KR.md)
-[![French](https://img.shields.io/badge/Language-French-red?style=for-the-badge)](static/README-fr.md)
-[![Japanese](https://img.shields.io/badge/Language-Japanese-red?style=for-the-badge)](static/README-ja.md)
-[![Hindi](https://img.shields.io/badge/Language-Hindi-red?style=for-the-badge)](static/README-hi.md)
-[![Bangla](https://img.shields.io/badge/Language-Bangla-red?style=for-the-badge)](static/README-bn.md)
+[![Chinese](https://img.shields.io/badge/Language-Chinese-red?style=for-the-badge)](README.md)
+[![English](https://img.shields.io/badge/Language-English-red?style=for-the-badge)](static/README-en.md)
 
 </div>
 
