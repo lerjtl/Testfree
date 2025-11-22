@@ -46,8 +46,8 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0A0Ni4xODMuMTg0LjYwOjk4OQ==#_10
 ... (还有 142 条)
 ```
 
-<h5>更多节点信息请查看这里的最新节点信息更新：<a href="">{{MORE_NODES_LINK}}</a></h5>
+<h5>更多节点信息请查看这里的最新节点信息更新：<a href="slightripple.com">{{MORE_NODES_LINK}}</a></h5>
 <p>上方订阅地址二维码</p>
-<img src='https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=' width=250 height=250>
+<img src='https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=slightripple.com' width=250 height=250>
 
-
+<p>这是一个测试内容</p>
