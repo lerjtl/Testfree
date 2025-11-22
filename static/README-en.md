@@ -1,10 +1,9 @@
-
 <div align="center">
 
 **Languages:**
 
 [![English](https://img.shields.io/badge/Language-English-red?style=for-the-badge)](README-en.md)
-[![Arabic](https://img.shields.io/badge/Language-Arabic-red?style=for-the-badge)](README-ar.md)
+[![Arabic](https://img.shields.io/badge/Language-Arabic-red?style=for-the-badge)](static/README-ar.md)
 [![German](https://img.shields.io/badge/Language-German-red?style=for-the-badge)](static/README-de.md)
 [![Vietnamese](https://img.shields.io/badge/Language-Vietnamese-red?style=for-the-badge)](static/README-vi.md)
 [![Indonesian](https://img.shields.io/badge/Language-Indonesian-red?style=for-the-badge)](static/README-id.md)
@@ -46,8 +45,8 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0A0Ni4xODMuMTg0LjYwOjk4OQ==#_10
 ... (还有 142 条)
 ```
 
-<h5>More node information can be found here for the latest node updates: <a href="https://slightripple.com/">{{MORE_NODES_LINK}}</a></h5>
+<h5>More node information can be found here for the latest node updates: <a href="">{{MORE_NODES_LINK}}</a></h5>
 <p>QR code of the subscription address above</p>
-<img src='https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https%3A%2F%2Fslightripple.com%2F' width=250 height=250>
+<img src='https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=' width=250 height=250>
 
-123
+
