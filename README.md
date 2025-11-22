@@ -1,7 +1,5 @@
 # 最新网络代理线路列表
 
-## [https://proxypool.link/sip002/sub](https://proxypool.link/sip002/sub)
-
 - `ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxNzEuMjIuMjU0LjE3Ojk4OQ==#_01`
 - `ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxOTIuNzEuMjQ5Ljc4Ojk4OQ==#_02`
 - `ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJxQDE0Mi40LjIxNi4yMjU6ODA=#_03`
