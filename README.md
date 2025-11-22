@@ -46,8 +46,8 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxNTQuMjIzLjIwLjc5Ojk4OQ==#_10
 ... (还有 141 条)
 ```
 
-<h5>更多节点信息请查看这里的最新节点信息更新：<a href="https://slightripple.com">{{MORE_NODES_LINK}}</a></h5>
+<h5>更多节点信息请查看这里的最新节点信息更新：<a href="https://slightripple.com/">https://slightripple.com/</a></h5>
 <p>上方订阅地址二维码</p>
-<img src='https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https%3A%2F%2Fslightripple.com' width=250 height=250>
+<img src='https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https%3A%2F%2Fslightripple.com%2F' width=250 height=250>
 
 <div class="ad-content"><a href="https://aff01.c-box.vip/#/register?code=eTADcyOT" title="Orgorg速率最高可达1000Mbps，流畅观看Youtube 4K、TikTok，支持 Windows、Android、iOS、Mac，支持 微信、支付宝 付款！" rel="nofollow" target="_blank"><img src="https://slightripple.com/wp-content/uploads/2025/08/ORG-ads-scaled.png" alt="Orgorg速率最高可达1000Mbps，流畅观看Youtube 4K、TikTok，支持 Windows、Android、iOS、Mac，支持 微信、支付宝 付款！" style="max-width: 100%;"></a></div>
