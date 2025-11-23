@@ -117,4 +117,4 @@ ShadowsocksR简称SSR，还有酸酸乳、粉色小飞机、纸飞机这些可�
 
 iPhone或者iPad打开苹果App Store，搜索Mume(暮梅)、Potatso Lite、FastSocks、Shadowrocket（小火箭）。
 
-<!-- Debug timestamp: 2025-11-23T01:51:10.407Z -->
+<!-- Debug timestamp: 2025-11-23T01:52:10.268Z -->
