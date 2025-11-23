@@ -117,4 +117,4 @@ The download addresses for the latest SSR Windows client, SSR Android client, Ap
 
 For iPhone or iPad, open the Apple App Store and search for Mume (暮梅), Potatso Lite, FastSocks, Shadowrocket.
 
-<!-- Debug timestamp: 2025-11-23T01:43:10.534Z -->
+<!-- Debug timestamp: 2025-11-23T01:46:10.347Z -->
